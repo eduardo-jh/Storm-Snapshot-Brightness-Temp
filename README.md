@@ -47,7 +47,7 @@ When prompted, introduce A to accept all.
 
 #### Install wget
 
-Wget is the application to download files from the internet using the command line. Powershell by default as an alias for wget which points to Invoke-WebRequest (use the command Get-Alias wget | ft -auto to verify this), in order to use the correct wget executable file you should remove the alias.
+Wget is the application to download files from the internet using the command line. Powershell by default as an alias for wget which points to Invoke-WebRequest (use the command `Get-Alias wget | ft -auto` to verify this), in order to use the correct wget executable file you should remove the alias.
 
 Download wget executable from: <https://eternallybored.org/misc/wget/>
 
