@@ -51,7 +51,7 @@ Wget is the application to download files from the internet using the command li
 
 Download wget executable from: <https://eternallybored.org/misc/wget/>
 
-Place the executable into one of the path directories of the system, for your current user the directory: 'C:\Users\<username>\AppData\Local\Microsoft\WindowsApps' should be enough.
+Place the executable into one of the path directories of the system, for your current user the directory: `C:\Users\<username>\AppData\Local\Microsoft\WindowsApps` should be enough.
 
 Open the profile by running the following command inside the Powershell running as Administrator:
 
